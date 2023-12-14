@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Opgaver_start/1.0.0": {
+        "runtime": {
+          "Opgaver_start.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opgaver_start/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

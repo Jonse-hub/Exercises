@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\bin\Debug\netcoreapp3.1\Opgaver_start.exe
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\bin\Debug\netcoreapp3.1\Opgaver_start.deps.json
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\bin\Debug\netcoreapp3.1\Opgaver_start.runtimeconfig.json
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\bin\Debug\netcoreapp3.1\Opgaver_start.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\bin\Debug\netcoreapp3.1\Opgaver_start.dll
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\bin\Debug\netcoreapp3.1\Opgaver_start.pdb
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\obj\Debug\netcoreapp3.1\Opgaver_start.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\obj\Debug\netcoreapp3.1\Opgaver_start.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\obj\Debug\netcoreapp3.1\Opgaver_start.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\obj\Debug\netcoreapp3.1\Opgaver_start.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\obj\Debug\netcoreapp3.1\Opgaver_start.dll
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\obj\Debug\netcoreapp3.1\Opgaver_start.pdb
+C:\Users\jona444j\source\repos\Opgaver\Opgaver\obj\Debug\netcoreapp3.1\Opgaver_start.genruntimeconfig.cache
